@@ -1,0 +1,82 @@
+body {
+	background-image:url('https://tse1.mm.bing.net/th?id=OIP.T6lw__pMPWKPqtMHgUYSFwHaD4&pid=Api&P=0');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.ta {
+	margin-left:auto;
+	margin-right:auto;
+	border:2px solid green;
+	margin-top:40px;
+}
+
+.taa {
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:5px;
+	margin-top:20px;
+	width:50%;
+	border-collapse:collapse;
+	font-size:20px;
+}
+
+.tb {
+	font-size:22px;
+	border:2px solid black;
+	border-radius:5px;
+}
+
+.tdp {
+	padding:7px;
+}
+
+.tdp1 {
+	padding:15px;
+}
+
+.af {
+	font-size:20px;
+	color:blue;
+	font-family:lucida calligraphy;
+}
+
+.af:hover {
+	color:black;
+}
+
+.dv {
+	margin-top:50px;
+	text-align:center;
+}
+
+.dvv {
+	color:red;
+	margin-top:30px;
+	text-align:center;
+}
+
+.bt {
+	font-size:19px;
+	background-color:#3388FF;
+	border-radius:5px;
+	padding:3px 5px 3px 5px;
+	color:white;
+}
+
+.la {
+	font-size:20px;
+	color:magenta;
+	padding:5px
+}
+
+.laa {
+	font-size:22px;
+	color:magenta;
+	font-weight:bold;
+}
+
+span {
+	color:red;
+	font-size:20px;
+}
